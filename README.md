@@ -1,6 +1,6 @@
 <h1 align='center'> Hi 👋, I'm Ahmed Ateya </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Elshorpagi"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Ateya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ateya1"/> </p>
 
 - I'm a CS Student 💻
 - I'm interested in learning the fundamentals of programming 💻
