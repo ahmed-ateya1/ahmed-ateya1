@@ -33,6 +33,8 @@
 <a href="https://www.facebook.com/ahmed.ateya.54772/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/ahmed.ateya1902/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Elshorpagi&show_icons=true&locale=en&theme=radical" alt="Ali-Elshorpagi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Elshorpagi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ali-Elshorpagi"/> </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
