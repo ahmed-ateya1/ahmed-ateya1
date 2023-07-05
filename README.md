@@ -2,7 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Ateya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ateya1"/> </p>
 
-- I'm a CS Student 💻
+
+## 🚀 About Me
+- I am studying computer science at Zagazig University💻
 - I love studying and learning complex algorithms 
 - I love Problems Solving
 
