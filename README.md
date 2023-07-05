@@ -34,12 +34,6 @@
 <a href="https://www.instagram.com/ahmed.ateya1902/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAteya&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
 
 
