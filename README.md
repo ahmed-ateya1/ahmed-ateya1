@@ -14,7 +14,7 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://devdocs.io/c/"> 
+  <a href="[https://devdocs.io/c/](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)"> 
      <img src="./img/c.svg" alt="C" width="45" height="45">
   </a> 
   &emsp;
