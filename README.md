@@ -8,7 +8,34 @@
 - I love to learn complex algorithms and problems solving
 - .NET Developer 💻
 - Coffee ☕
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
+<p align="center"> 
+  &emsp; 
+  <a href="https://devdocs.io/c/"> 
+     <img src="./img/c.svg" alt="C" width="45" height="45">
+  </a> 
+  &emsp;
+  <a href="https://cplusplus.com/doc/"> 
+    <img src="./img/cpp.svg" alt="C++" width="45" height="45">
+  </a> 
+    &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+    <img src="./img/CS.svg" alt="C#" width="45" height="45">
+  </a> 
+    &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
+    <img src="./img/dotNet.svg" alt=".NET" width="45" height="45">
+  </a> 
+    &emsp;
+  <a href="https://git-scm.com/doc">
+     <img src="./img/git.svg" alt="Git" width="45" height="45">
+  </a>
+  &emsp;
+  <a href="https://docs.github.com/en">
+   <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
+  </a>
+  &emsp;
+</p>
+
 
 <p align="center"> 
   &emsp; 
