@@ -37,6 +37,8 @@
   <a href="https://docs.github.com/en">
    <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
   </a>
+  &emsp;
+</p>
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
