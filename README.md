@@ -10,35 +10,6 @@
 - Coffee ☕
 <p align="center"> 
   &emsp; 
-  <a href="https://devdocs.io/c/"> 
-     <img src="./img/c.svg" alt="C" width="45" height="45">
-  </a> 
-  &emsp;
-  <a href="https://cplusplus.com/doc/"> 
-    <img src="./img/cpp.svg" alt="C++" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
-    <img src="./img/CS.svg" alt="C#" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
-    <img src="./img/dotNet.svg" alt=".NET" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://git-scm.com/doc">
-     <img src="./img/git.svg" alt="Git" width="45" height="45">
-  </a>
-  &emsp;
-  <a href="https://docs.github.com/en">
-   <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
-  </a>
-  &emsp;
-</p>
-
-
-<p align="center"> 
-  &emsp; 
   <a href="https://devdocs.io/c/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
