@@ -8,21 +8,33 @@
 - I love to learn complex algorithms and problems solving
 - .NET Developer 💻
 - Coffee ☕
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
+
 <p align="center"> 
   &emsp; 
-  <a href="https://devdocs.io/c/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="https://devdocs.io/c/"> 
+     <img src="./img/c.svg" alt="C" width="45" height="45">
   </a> 
   &emsp;
-  <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://cplusplus.com/doc/"> 
+    <img src="./img/cpp.svg" alt="C++" width="45" height="45">
   </a> 
     &emsp;
-    <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+    <img src="./img/CS.svg" alt="C#" width="45" height="45">
+  </a> 
+    &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
+    <img src="./img/dotNet.svg" alt=".NET" width="45" height="45">
+  </a> 
+    &emsp;
+  <a href="https://git-scm.com/doc">
+     <img src="./img/git.svg" alt="Git" width="45" height="45">
+  </a>
   &emsp;
-    <a href="https://docs.github.com/en"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-</p>
+  <a href="https://docs.github.com/en">
+   <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
+  </a>
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
