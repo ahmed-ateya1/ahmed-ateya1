@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - I am studying computer science at Zagazig University
-- I am interested in solving problems and studying many algorithms
-- 
+- I am interested in problem solving and studying many algorithms
+- I am currently learning ASP.Net Core
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center"> 
