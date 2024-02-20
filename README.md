@@ -21,7 +21,7 @@
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
  
 </p>
-##<img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
+## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
 <p align="center">
 <a href="mailto:ahmed.teka446@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
