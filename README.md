@@ -12,34 +12,15 @@
 - I am currently learning ASP.Net Core
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
-<p align="center"> 
-  &emsp; 
-  <a href="[https://devdocs.io/c/](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)"> 
-     <img src="./img/c.svg" alt="C" width="45" height="45">
-  </a> 
-  &emsp;
-  <a href="https://cplusplus.com/doc/"> 
-    <img src="./img/cpp.svg" alt="C++" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
-    <img src="./img/CS.svg" alt="C#" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
-    <img src="./img/dotNet.svg" alt=".NET" width="45" height="45">
-  </a> 
-    &emsp;
-  <a href="https://git-scm.com/doc">
-     <img src="./img/git.svg" alt="Git" width="45" height="45">
-  </a>
-  &emsp;
-  <a href="https://docs.github.com/en">
-   <img src="./img/Github.svg" alt="GitHub" width="45" height="45">
-  </a>
-  &emsp;
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="c++" width="45" height="45"/> </a> &ensp; 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt="C#" width="45" height="45"/> </a> &ensp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> <img src="https://img.icons8.com/?size=154&id=1BC75jFEBED6&format=png" alt=".Net" width="45" height="45"/> </a> &ensp;
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server" target="_blank"> <img src="https://img.icons8.com/?size=80&id=UFF3hmipmJ2V&format=png" alt="SqlServer" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="git" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+ 
 </p>
-
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 
 <p align="center">
