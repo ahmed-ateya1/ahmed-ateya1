@@ -7,9 +7,11 @@
 </p> 
 
 ## 🚀 About Me
-- I am studying computer science at Zagazig University
-- I am interested in problem solving and studying many algorithms
-- I am currently learning ASP.Net Core
+- Studying Computer Science at Zagazig University
+- Passionate Junior .NET Developer with expertise in backend development, microservices, and real-time applications
+- Enthusiast of problem-solving, algorithms, and data structures
+- Currently mastering ASP.NET Core, microservices architecture, and DevOps practices
+- 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center">
